@@ -75,4 +75,5 @@ Extensionname
 	Pages/Screenshots
 	Pages/UserManual
 	Pages/AdministratorManual
+	Pages/Links
 	Pages/Aoe

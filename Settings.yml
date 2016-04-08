@@ -4,15 +4,12 @@
 
 ---
 conf.py:
-  copyright: 2015
-  project: Brute Force Protection
-  version: 0.4
-  release: 0.4.2
+  copyright: 2016
+  project: Extension Name
+  version: 0.0.1
+  release: 0.0.1
   latex_documents:
   - - Index
-    - felogin_bruteforce_protection.tex
-    - Brute Force Protection
-    - Kevin Schu, Andre Wuttig
     - manual
   latex_elements:
     papersize: a4paper
